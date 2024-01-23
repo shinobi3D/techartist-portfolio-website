@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>post on Anthony Lynch</title>
+    <link>/tags/post/</link>
+    <description>Recent content in post on Anthony Lynch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>/posts/myfirstpost/</link>
+      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/myfirstpost/</guid>
+      <description>Welcome This will be a place to collect my thoughts, and share interesting tech that i discover along my career. Thanks to the Hugo protocol posting the journey online will now be as painless as possible.</description>
+    </item>
+  </channel>
+</rss>

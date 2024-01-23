@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bio on Anthony Lynch</title>
+    <link>/tags/bio/</link>
+    <description>Recent content in bio on Anthony Lynch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/bio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/about/</guid>
+      <description>About I&amp;rsquo;ve been in the animation industry for 10+ years and a rigger for more then 8. I really enjoy the gratifcaiton I get from solving complex problems. I&amp;rsquo;ve recently gained an interest in software dev and how these tools can help VFX produciton. I&amp;rsquo;m currently using&#xA;vim pycharm git/bash obsidian maya, blender, ue5 And trying to improve my workflow everyday.</description>
+    </item>
+  </channel>
+</rss>
