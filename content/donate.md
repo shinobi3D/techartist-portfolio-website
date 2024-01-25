@@ -1,7 +1,6 @@
 ---
 title: Donation
 type: page
-tags: ["donate"]
 
 ---
 

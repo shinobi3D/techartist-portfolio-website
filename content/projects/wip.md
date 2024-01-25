@@ -1,6 +1,7 @@
 ---
 title: "Projects"
 type: page
+draft: true
 ---
 
 ### Professional
@@ -9,3 +10,9 @@ type: page
 
 **Ghost Writer S03** on **AppleTV** - [Watch Preview](https://www.youtube.com/watch?v=rr5rK1-NLUk) - I worked really hard to complete the full rig for the Cowarldy Lion character. 
 
+
+### Personal
+
+1. [Book Rig](/projects/book_rig/) 
+2. [SkyDoll Fan Project](/projects/skydoll_proj/)
+3. [Bulma Project](/projects/bulma_proj/)

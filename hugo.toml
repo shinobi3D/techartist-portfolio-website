@@ -63,14 +63,14 @@ pygmentsStyle = "monokai"
   [[menu.main]]
     name = "About"
     pre = "<span data-feather='info'></span>"
-    url = "about"
+    url = "/about/"
     weight = 3
 
-  [[menu.main]]
-    name = "Posts"
-    pre = "<span data-feather='clipboard'></span>"
-    url = "/posts/"
-    weight = 4
+  # [[menu.main]]
+  #   name = "Posts"
+  #   pre = "<span data-feather='clipboard'></span>"
+  #   url = "/posts/"
+  #   weight = 4
 
   [[menu.main]]
     name = "Projects"
@@ -90,11 +90,11 @@ pygmentsStyle = "monokai"
     url = "https://github.com/shinobi3D"
     weight = 7
 
-  [[menu.main]]
-   identifier = "Donate"
-   pre = "<span data-feather='dollar-sign'></span>"
-   url = "donate"
-   weight = 8
+  # [[menu.main]]
+  #  identifier = "Donate"
+  #  pre = "<span data-feather='dollar-sign'></span>"
+  #  url = "donate"
+  #  weight = 8
 
   [[menu.main]]
     identifier = "rss"
