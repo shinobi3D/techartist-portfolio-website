@@ -11,8 +11,8 @@ pygmentsStyle = "monokai"
 
 [params]
   footer = 'A Rigging Blog'
-  description = "Welcome to the Personal Portfolio of Artist and Rigger"
-  avatarURL = "/images/Idris-Elba-2018.webp"
+  description = "Welcome to the Personal Portfolio of Senior Rigger and Artist"
+  avatarURL = "/images/profile_pic_001.jpg"
   AvatarAltText = "avatar"
   avatarSize = "size-xl"
   ShowBackToTopButton = true # true or false for "back to top" button on posts
@@ -56,8 +56,8 @@ pygmentsStyle = "monokai"
 
   [[menu.main]]
     name = "Portfolio"
-    pre = "<span data-feather='book'></span>"
-    url = "portfolio"
+    pre = "<span data-feather='film'></span>"
+    url = "/portfolio/"
     weight = 2
 
   [[menu.main]]
@@ -99,7 +99,7 @@ pygmentsStyle = "monokai"
   [[menu.main]]
     identifier = "rss"
     pre = "<span data-feather='rss'></span>"
-    url = "/index.xml"
+    url = "/index.xml/"
     weight = 9
 
 [markup]
