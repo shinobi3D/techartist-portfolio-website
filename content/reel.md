@@ -1,10 +1,8 @@
 ---
-title: Portfolio
+title: Reel
 type: page
 ---
 
-
-## Demo Reel
 {{< vimeo 866049624 >}}
 <!-- [Go To Vimeo](https://vimeo.com/866049624) -->
 

@@ -2,17 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bio on Anthony Lynch</title>
-    <link>/tags/bio/</link>
+    <link>//localhost:1313/tags/bio/</link>
     <description>Recent content in Bio on Anthony Lynch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/tags/bio/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Me</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/about/</guid>
-      <description>About I&amp;rsquo;ve been an Animaiton Industry Professional for over 10 years, and spent a majority of that time as a Rigging Artist. I really enjoy the gratifcaiton I get from solving technical problems.&#xA;Tools I&amp;rsquo;m Using&#xA;Maya, UE5, Blender PyCharm/VSCode Vim Git Rocky Linux </description>
-    </item>
+    <atom:link href="//localhost:1313/tags/bio/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

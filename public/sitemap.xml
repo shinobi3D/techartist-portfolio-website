@@ -28,14 +28,14 @@
   </url><url>
     <loc>/about/</loc>
   </url><url>
-    <loc>/tags/bio/</loc>
-  </url><url>
     <loc>/categories/</loc>
   </url><url>
     <loc>/donate/</loc>
   </url><url>
-    <loc>/portfolio/</loc>
-  </url><url>
     <loc>/projects/</loc>
+  </url><url>
+    <loc>/reel/</loc>
+  </url><url>
+    <loc>/tools/</loc>
   </url>
 </urlset>

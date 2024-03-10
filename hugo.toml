@@ -10,8 +10,8 @@ enableRobotsTXT = true
 pygmentsStyle = "monokai"
 
 [params]
-  footer = 'A Rigging Blog'
-  description = "Welcome to the Personal Portfolio of Senior Rigger and Artist"
+  footer = ''
+  description = "Animation | Rigging"
   avatarURL = "/images/profile_pic_001.jpg"
   AvatarAltText = "avatar"
   avatarSize = "size-xl"
@@ -38,12 +38,12 @@ pygmentsStyle = "monokai"
   """
   socialIcons = [    
     {name = "email", url = "mailto:rigger@anthonylynch.xyz"},
+    {name = "twitter", url = "https://twitter.com/Shinobi3D"},
     {name = "vimeo", url = "https://vimeo.com/anthonylynch"},
     {name = "linkedin", url = "https://www.linkedin.com/in/anthony-lynch-6b54804/"},    
-    {name = "imdb", url = "https://www.imdb.com/name/nm4871751/?ref_=fn_al_nm_10"},
+    # {name = "imdb", url = "https://www.imdb.com/name/nm4871751/?ref_=fn_al_nm_10"},
     # {name = "artstation", url = "https://www.artstation.com"},
     # {name = "twitch", url = "https://example.com"},
-    {name = "twitter", url = "https://twitter.com/Shinobi3D"}    
   ]
   metaKeywords = [ "blog", "technicalartist", "rigging", "animation" ]
 
@@ -55,28 +55,28 @@ pygmentsStyle = "monokai"
     weight = 1
 
   [[menu.main]]
-    name = "Portfolio"
+    name = "Reel"
     pre = "<span data-feather='film'></span>"
-    url = "/portfolio/"
+    url = "/reel/"
     weight = 2
+
+  [[menu.main]]
+    name = "Tools"
+    pre = "<span data-feather='tool'></span>"
+    url = "/tools/"
+    weight = 3
+ 
+  [[menu.main]]
+    name = "Projects"
+    pre = "<span data-feather='code'></span>"
+    url = "/projects/"
+    weight = 4
 
   [[menu.main]]
     name = "About"
     pre = "<span data-feather='info'></span>"
     url = "/about/"
-    weight = 3
-
-  # [[menu.main]]
-  #   name = "Posts"
-  #   pre = "<span data-feather='clipboard'></span>"
-  #   url = "/posts/"
-  #   weight = 4
-
-  [[menu.main]]
-    name = "Projects"
-    pre = "<span data-feather='code'></span>"
-    url = "/projects/"
-    weight = 5
+    weight = 5    
 
   [[menu.main]]
     name = "Tags"
@@ -96,11 +96,17 @@ pygmentsStyle = "monokai"
   #  url = "donate"
   #  weight = 8
 
+  # [[menu.main]]
+  #   name = "Posts"
+  #   pre = "<span data-feather='clipboard'></span>"
+  #   url = "/posts/"
+  #   weight = 4  
+
   [[menu.main]]
     identifier = "rss"
     pre = "<span data-feather='rss'></span>"
     url = "/index.xml/"
-    weight = 9
+    weight = 8
 
 [markup]
   [markup.tableOfContents]

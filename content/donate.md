@@ -1,26 +1,10 @@
 ---
-title: Donation
+title: Donate
 type: page
-
 ---
 
-
-# Donate
-
-If for some reason you're feeling generous, please donate the right way and send crypto.
-
-Monero:
-![Monero Banner](/images/crypto/monero-logo.png)
-
-
-Litecoin:
-![Litecoin Banner](/images/crypto/litecoin-logo.png)
-
-
-Bitcoin: 
-![Bitcoin Banner](/images/crypto/bitcoin-logo.png)
-
-
-
-
-
+| Coin |        | Address |
+| -------- | ---- | ----------- |
+| ![Monero Banner](/images/crypto/logo-monero.webp) | Monero | xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |
+| ![Litecoin Banner](/images/crypto/logo-litecoin.webp) | LiteCoin | xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |
+| ![Bitcoin Banner](/images/crypto/logo-bitcoin.webp) | Bitcoin | xxxxxxxxxxxxxxxxxxxxxxxxxxxx |

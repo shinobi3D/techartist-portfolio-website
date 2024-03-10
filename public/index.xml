@@ -27,21 +27,28 @@
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/about/</guid>
-      <description>About I&amp;rsquo;ve been an Animaiton Industry Professional for over 10 years, and spent a majority of that time as a Rigging Artist. I really enjoy the gratifcaiton I get from solving technical problems.&#xA;Tools I&amp;rsquo;m Using&#xA;Maya, UE5, Blender PyCharm/VSCode Vim Git Rocky Linux </description>
+      <description>About I&amp;rsquo;ve been an Animaiton Industry Professional for over 10 years, and spent a majority of that time as a Rigging Artist. I really enjoy the gratifcaiton I get from solving technical problems.&#xA;Tools I&amp;rsquo;m Using&#xA;Maya, UE5, Blender PyCharm/VSCode Vim Git Rocky Linux Contact Me Email: rigger@anthonylynch.xyz</description>
     </item>
     <item>
-      <title>Donation</title>
+      <title>Donate</title>
       <link>/donate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/donate/</guid>
-      <description>Donate If for some reason you&amp;rsquo;re feeling generous, please donate the right way and send crypto.&#xA;Monero: Litecoin: Bitcoin: </description>
+      <description> Coin Address Monero xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx LiteCoin xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Bitcoin xxxxxxxxxxxxxxxxxxxxxxxxxxxx </description>
     </item>
     <item>
-      <title>Portfolio</title>
-      <link>/portfolio/</link>
+      <title>Reel</title>
+      <link>/reel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/portfolio/</guid>
-      <description>Demo Reel </description>
+      <guid>/reel/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tools/</guid>
+      <description>Here is a collection of Maya tools I created during daily work. Its only a few for now, but I have a few in the works that will be release soon.&#xA;GitHub Repo:&#xA;Download Name Description Github Color Changer For changing the color on controls. More Info Github Copy Vert Weight Tool for selecting and copying weight. More Info If you appreciate any of these and are feeling generous feel free to Donate</description>
     </item>
   </channel>
 </rss>
