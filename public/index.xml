@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anthony Lynch</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content on Anthony Lynch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Copy Weight To Verts Tool</title>
-      <link>//localhost:1313/posts/post_copy_vert_weight_script/</link>
+      <link>/posts/post_copy_vert_weight_script/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/post_copy_vert_weight_script/</guid>
+      <guid>/posts/post_copy_vert_weight_script/</guid>
       <description>Color Changer is an updated version of a mel script I&amp;rsquo;ve been using in my workflow. I also took this as a challenge to build a gui using cmds. You also now have the ability to easily change the color on the shape of the control.&#xA;Github:</description>
     </item>
     <item>
       <title>Color Changer Script</title>
-      <link>//localhost:1313/posts/post_color_changer_script/</link>
+      <link>/posts/post_color_changer_script/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/post_color_changer_script/</guid>
+      <guid>/posts/post_color_changer_script/</guid>
       <description>Color Changer is an updated version of a mel script I&amp;rsquo;ve been using in my workflow. I also took this as a challenge to build a gui using cmds. You also now have the ability to easily change the color on the shape of the control.&#xA;Github:</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>//localhost:1313/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/about/</guid>
-      <description>About I&amp;rsquo;ve been in the animation industry for 10+ years and a rigger for more then 8. I really enjoy the gratifcaiton I get from solving complex problems. I&amp;rsquo;ve recently gained an interest in software dev and how these tools can help VFX produciton. I&amp;rsquo;m currently using&#xA;vim pycharm git/bash obsidian maya, blender, ue5 And trying to improve my workflow everyday.</description>
+      <guid>/about/</guid>
+      <description>About I&amp;rsquo;ve been an Animaiton Industry Professional for over 10 years, and spent a majority of that time as a Rigging Artist. I really enjoy the gratifcaiton I get from solving technical problems.&#xA;Tools I&amp;rsquo;m Using&#xA;Maya, UE5, Blender PyCharm/VSCode Vim Git Rocky Linux </description>
     </item>
     <item>
       <title>Donation</title>
-      <link>//localhost:1313/donate/</link>
+      <link>/donate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/donate/</guid>
+      <guid>/donate/</guid>
       <description>Donate If for some reason you&amp;rsquo;re feeling generous, please donate the right way and send crypto.&#xA;Monero: Litecoin: Bitcoin: </description>
     </item>
     <item>
       <title>Portfolio</title>
-      <link>//localhost:1313/portfolio/</link>
+      <link>/portfolio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/portfolio/</guid>
+      <guid>/portfolio/</guid>
       <description>Demo Reel </description>
     </item>
   </channel>

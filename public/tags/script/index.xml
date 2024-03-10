@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Script on Anthony Lynch</title>
-    <link>//localhost:1313/tags/script/</link>
+    <link>/tags/script/</link>
     <description>Recent content in Script on Anthony Lynch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/script/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/script/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Copy Weight To Verts Tool</title>
-      <link>//localhost:1313/posts/post_copy_vert_weight_script/</link>
+      <link>/posts/post_copy_vert_weight_script/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/post_copy_vert_weight_script/</guid>
+      <guid>/posts/post_copy_vert_weight_script/</guid>
       <description>Color Changer is an updated version of a mel script I&amp;rsquo;ve been using in my workflow. I also took this as a challenge to build a gui using cmds. You also now have the ability to easily change the color on the shape of the control.&#xA;Github:</description>
     </item>
     <item>
       <title>Color Changer Script</title>
-      <link>//localhost:1313/posts/post_color_changer_script/</link>
+      <link>/posts/post_color_changer_script/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/post_color_changer_script/</guid>
+      <guid>/posts/post_color_changer_script/</guid>
       <description>Color Changer is an updated version of a mel script I&amp;rsquo;ve been using in my workflow. I also took this as a challenge to build a gui using cmds. You also now have the ability to easily change the color on the shape of the control.&#xA;Github:</description>
     </item>
   </channel>
