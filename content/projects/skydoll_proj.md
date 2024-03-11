@@ -1,7 +1,6 @@
 ---
 title: Skydoll Project
 type: page
-tags: ['projects']
 url: /skydoll_project/
 draft: true
 ---

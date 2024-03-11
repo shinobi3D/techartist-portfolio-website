@@ -13,5 +13,9 @@ Tools I'm Using
 - Git
 - Rocky Linux
 
+## Socials
+{name = "imdb", url = "https://www.imdb.com/name/nm4871751/?ref_=fn_al_nm_10"} 
+
+
 ## Contact Me
 Email: rigger@anthonylynch.xyz

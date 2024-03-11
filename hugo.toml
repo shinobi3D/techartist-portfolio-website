@@ -79,6 +79,12 @@ pygmentsStyle = "monokai"
     weight = 5    
 
   [[menu.main]]
+    name = "Posts"
+    pre = "<span data-feather='clipboard'></span>"
+    url = "/posts/"
+    weight = 6     
+
+  [[menu.main]]
     name = "Tags"
     pre = "<span data-feather='tag'></span>"
     url = "/tags/"
@@ -96,11 +102,7 @@ pygmentsStyle = "monokai"
   #  url = "donate"
   #  weight = 8
 
-  # [[menu.main]]
-  #   name = "Posts"
-  #   pre = "<span data-feather='clipboard'></span>"
-  #   url = "/posts/"
-  #   weight = 4  
+ 
 
   [[menu.main]]
     identifier = "rss"

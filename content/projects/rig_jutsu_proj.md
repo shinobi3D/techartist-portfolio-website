@@ -1,11 +1,11 @@
 ---
-title: Book Rig
+title: Rig-No-Jutsu
 type: page
-# tags: ['rig']
-url: /book rig/
-draft: true
-
+# tags: ['tools','python']
+url: /rig-no-jutsu/
+draft: false
 ---
+
 ## Why
 I've always wanted to create my own book prop rig, but was never really tasked with doing so when I was on productions.  Usually it would be a simple book, that never had to open or be interacted with. I never got to flex the rigging chops, but now that I have the time I'm making it a point. 
 
