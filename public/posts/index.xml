@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Anthony Lynch</title>
-    <link>//localhost:1313/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Anthony Lynch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Copy Weight To Verts Tool</title>
-      <link>//localhost:1313/posts/post_copy_vert_weight_script/</link>
+      <link>/copy-vert-weight-script/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/post_copy_vert_weight_script/</guid>
-      <description>Color Changer is an updated version of a mel script I&amp;rsquo;ve been using in my workflow. I also took this as a challenge to build a gui using cmds. You also now have the ability to easily change the color on the shape of the control.&#xA;Github:</description>
+      <guid>/copy-vert-weight-script/</guid>
+      <description>Copy Vert Weights tool was created in a day to help with those pesky moments when you want to copy weights to certain verts. This tool help you manage the selections and copy weights quickly.&#xA;Download Link: GitHub/Rig-No-Jutsu</description>
     </item>
     <item>
       <title>Color Changer Script</title>
-      <link>//localhost:1313/posts/post_color_changer_script/</link>
+      <link>/color-changer-script/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/post_color_changer_script/</guid>
-      <description>Color Changer is an updated version of a mel script I&amp;rsquo;ve been using in my workflow. I also took this as a challenge to build a gui using cmds. You also now have the ability to easily change the color on the shape of the control.&#xA;Github:</description>
+      <guid>/color-changer-script/</guid>
+      <description>Color Changer is an updated python version of a mel script(edmxColorChanger.mel) I&amp;rsquo;ve been using in my workflow. I also took this as a challenge to build a gui using cmds. I also added the ability to easily change the color on the shape of the control.&#xA;Download Link: GitHub/Rig-No-Jutsu</description>
     </item>
     <item>
       <title>Hello World</title>
-      <link>//localhost:1313/posts/introduction/</link>
+      <link>/posts/introduction/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/introduction/</guid>
+      <guid>/posts/introduction/</guid>
       <description>Welcome to my website. This is my first attempt at building a Hugo site. The experience has been quite empowering and I&amp;rsquo;ve learned a lot of tools along the way. Its great how far web building tools have come along, I&amp;rsquo;d encourge any tech artist to give it a try.&#xA;Now that the setup is done, let the content flow! Sit tight, relax and look around. Hopefully you can find something of value here.</description>
     </item>
   </channel>

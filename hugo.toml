@@ -14,7 +14,7 @@ pygmentsStyle = "monokai"
   description = "Animation | Rigging"
   avatarURL = "/images/profile_pic_001.jpg"
   AvatarAltText = "avatar"
-  avatarSize = "size-xl"
+  avatarSize = "size-l"
   ShowBackToTopButton = true # true or false for "back to top" button on posts
   customHeadHTML = """
     <!-- KaTeX -->
@@ -61,22 +61,22 @@ pygmentsStyle = "monokai"
     weight = 2
 
   [[menu.main]]
+    name = "About"
+    pre = "<span data-feather='info'></span>"
+    url = "/about/"
+    weight = 3    
+
+  [[menu.main]]
     name = "Tools"
     pre = "<span data-feather='tool'></span>"
     url = "/tools/"
-    weight = 3
+    weight = 4
  
   [[menu.main]]
     name = "Projects"
     pre = "<span data-feather='code'></span>"
     url = "/projects/"
-    weight = 4
-
-  [[menu.main]]
-    name = "About"
-    pre = "<span data-feather='info'></span>"
-    url = "/about/"
-    weight = 5    
+    weight = 5  
 
   [[menu.main]]
     name = "Posts"
@@ -84,11 +84,11 @@ pygmentsStyle = "monokai"
     url = "/posts/"
     weight = 6     
 
-  [[menu.main]]
-    name = "Tags"
-    pre = "<span data-feather='tag'></span>"
-    url = "/tags/"
-    weight = 6
+  # [[menu.main]]
+  #   name = "Tags"
+  #   pre = "<span data-feather='tag'></span>"
+  #   url = "/tags/"
+  #   weight = 6
 
   [[menu.main]]
     identifier = "github"
@@ -100,9 +100,7 @@ pygmentsStyle = "monokai"
   #  identifier = "Donate"
   #  pre = "<span data-feather='dollar-sign'></span>"
   #  url = "donate"
-  #  weight = 8
-
- 
+  #  weight = 8 
 
   [[menu.main]]
     identifier = "rss"

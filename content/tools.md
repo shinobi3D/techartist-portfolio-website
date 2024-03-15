@@ -9,7 +9,7 @@ GitHub Repo:
 
 | Download | Name | Description |
 | -------- | ---- | ----------- |
-| [Github](https://github.com) | Color Changer | For changing the color on controls. [More Info](/posts/post_color_changer_script/)|
-| [Github](https://github.com) | Copy Vert Weight | Tool for selecting and copying weight. [More Info](/posts/copy_vert_weight_script/) |
+| [Github](https://github.com/shinobi3D/Rig-No-Jutsu/blob/main/jutsu/ui/ColorChangerUI.py) | Color Changer | For changing the color on controls and shapes.  [More Info](/posts/color_changer_script/)|
+| [Github](https://github.com/shinobi3D/Rig-No-Jutsu/blob/main/jutsu/ui/CopyWeightToVertUI.py) | Copy Vert Weight | Tool for selecting and copying weight to verts. [More Info](/posts/copy_vert_weight_script/) |
 
 <!-- If you appreciate any of these and are feeling generous feel free to [Donate](/donate/) -->

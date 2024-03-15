@@ -1,6 +1,7 @@
 ---
 title: Donate
 type: page
+draft: True
 ---
 
 | Coin |        | Address |

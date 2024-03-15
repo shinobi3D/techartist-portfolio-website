@@ -1,21 +1,15 @@
 ---
-title: "About Me"
+title: "About"
 type: page
 ---
-## About
-I've been an Animaiton Industry Professional for over 10 years, and spent a majority of that time as a Rigging Artist. 
-I really enjoy the gratifcaiton I get from solving technical problems. 
+I've been an Animation Industry Professional for over 10 years, and spent a majority of that time as a Rigging Artist working on projects from Animation to VFX. I specialize in creating rigging systems using python and various DCC software. I pride myself in providing animators with flexible and responsive rigs. And I really enjoy the gratifcaiton I get from solving technical problems. 
 
-Tools I'm Using
+## Tools I'm Using
 - Maya, UE5, Blender
 - PyCharm/VSCode
 - Vim
 - Git
 - Rocky Linux
-
-## Socials
-{name = "imdb", url = "https://www.imdb.com/name/nm4871751/?ref_=fn_al_nm_10"} 
-
 
 ## Contact Me
 Email: rigger@anthonylynch.xyz

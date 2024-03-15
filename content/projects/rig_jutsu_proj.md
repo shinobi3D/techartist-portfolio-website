@@ -3,13 +3,13 @@ title: Rig-No-Jutsu
 type: page
 # tags: ['tools','python']
 url: /rig-no-jutsu/
-draft: false
+draft: False
 ---
+Here is a collection of Maya tools I created during daily work. Its only a few for now, but I have a few in the works that will be release soon.
 
-## Why
-I've always wanted to create my own book prop rig, but was never really tasked with doing so when I was on productions.  Usually it would be a simple book, that never had to open or be interacted with. I never got to flex the rigging chops, but now that I have the time I'm making it a point. 
+GitHub Repo:    
 
-I've researched all the best book rigs i could find, and will be trying to mimic behaviour and features that I think are best.
-
-
-To Be Continued...
+| Download | Name | Description |
+| -------- | ---- | ----------- |
+| [Github](https://github.com/shinobi3D/Rig-No-Jutsu/blob/main/jutsu/ui/ColorChangerUI.py) | Color Changer | For changing the color on controls and shapes.  [More Info](/posts/color_changer_script/)|
+| [Github](https://github.com/shinobi3D/Rig-No-Jutsu/blob/main/jutsu/ui/CopyWeightToVertUI.py) | Copy Vert Weight | Tool for selecting and copying weight to verts. [More Info](/posts/copy_vert_weight_script/) |

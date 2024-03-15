@@ -2,45 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Anthony Lynch</title>
-    <link>//localhost:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Anthony Lynch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rig_tool</title>
-      <link>//localhost:1313/tags/rig_tool/</link>
+      <link>/tags/rig_tool/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/rig_tool/</guid>
+      <guid>/tags/rig_tool/</guid>
       <description></description>
     </item>
     <item>
       <title>HelloWorld</title>
-      <link>//localhost:1313/tags/helloworld/</link>
+      <link>/tags/helloworld/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/helloworld/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Post</title>
-      <link>//localhost:1313/tags/post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/post/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python</title>
-      <link>//localhost:1313/tags/python/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/python/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Script</title>
-      <link>//localhost:1313/tags/script/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/script/</guid>
+      <guid>/tags/helloworld/</guid>
       <description></description>
     </item>
   </channel>
