@@ -11,8 +11,8 @@ pygmentsStyle = "monokai"
 
 [params]
   footer = ''
-  description = "Animation | Rigging"
-  avatarURL = "/images/profile_pic_001.jpg"
+  description = "Rigging | Animation |  Technical Animator"
+  avatarURL = "/images/profile_pic_002.jpg"
   AvatarAltText = "avatar"
   avatarSize = "size-l"
   ShowBackToTopButton = true # true or false for "back to top" button on posts
