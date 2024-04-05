@@ -6,21 +6,28 @@
     <description>Recent content on Anthony Lynch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Limit No Jutsu</title>
+      <link>/posts/limit-script/</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/limit-script/</guid>
+      <description>Download Link: GitHub/Rig-No-Jutsu&#xA;About I created this script during produciton to speed up the process of setting limits. It helps you avoid having to go to the attribute editor and enabling each channel and setting the value. Far to many steps for my liking. This is much faster. I also plan on adding export/import functionality in the future.&#xA;How To Use Set Set Limit Select a control object and positon or rotate in space( preferably one axis at a time).</description>
+    </item>
     <item>
       <title>Copy Weight To Verts Tool</title>
       <link>/copy-vert-weight-script/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
       <guid>/copy-vert-weight-script/</guid>
-      <description>Copy Vert Weights tool was created in a day to help with those pesky moments when you want to copy weights to certain verts. This tool help you manage the selections and copy weights quickly.&#xA;Download Link: GitHub/Rig-No-Jutsu</description>
+      <description>Download Link: GitHub/Rig-No-Jutsu&#xA;Copy Vert Weights tool was created in a day to help with those pesky moments when you want to copy weights to certain verts. This tool help you manage the selections and copy weights quickly.</description>
     </item>
     <item>
       <title>Color Changer Script</title>
       <link>/color-changer-script/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
       <guid>/color-changer-script/</guid>
-      <description>Color Changer is an updated python version of a mel script(edmxColorChanger.mel) I&amp;rsquo;ve been using in my workflow. I also took this as a challenge to build a gui using cmds. I also added the ability to easily change the color on the shape of the control.&#xA;Download Link: GitHub/Rig-No-Jutsu</description>
+      <description>Download Link: GitHub/Rig-No-Jutsu&#xA;Color Changer is an updated python version of a mel script(edmxColorChanger.mel) I&amp;rsquo;ve been using in my workflow. I also took this as a challenge to build a gui using cmds. I also added the ability to easily change the color on the shape of the control.</description>
     </item>
     <item>
       <title>Hello World</title>
@@ -55,7 +62,7 @@
       <link>/tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tools/</guid>
-      <description>Here is a collection of Maya tools I created during daily work. Its only a few for now, but I have a few in the works that will be release soon.&#xA;GitHub Repo:&#xA;Download Name Description Github Color Changer For changing the color on controls and shapes. More Info Github Copy Vert Weight Tool for selecting and copying weight to verts. More Info </description>
+      <description>Here is a collection of Maya tools I created during daily work. Its only a few for now, but I have a few in the works that will be release soon.&#xA;GitHub Repo:&#xA;Download Name Description Github Color Changer For changing the color on controls and shapes. More Info Github Copy Vert Weight Tool for selecting and copying weight to verts. More Info Github Limit no Jutsu Utility to help set limits on controls faster.</description>
     </item>
   </channel>
 </rss>
