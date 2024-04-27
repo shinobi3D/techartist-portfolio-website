@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rig_tool on Anthony Lynch</title>
-    <link>//localhost:1313/tags/rig_tool/</link>
+    <link>/tags/rig_tool/</link>
     <description>Recent content in Rig_tool on Anthony Lynch</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/rig_tool/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/rig_tool/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Copy Weight To Verts Tool ( Script )</title>
-      <link>//localhost:1313/copy-vert-weight-script/</link>
+      <link>/copy-vert-weight-script/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/copy-vert-weight-script/</guid>
+      <guid>/copy-vert-weight-script/</guid>
       <description>Download Link: GitHub/Rig-No-Jutsu&#xA;Copy Vert Weights tool was created in a day to help with those pesky moments when you want to copy weights to certain verts. This tool help you manage the selections and copy weights quickly.</description>
     </item>
     <item>
       <title>Color Changer Script ( Script )</title>
-      <link>//localhost:1313/color-changer-script/</link>
+      <link>/color-changer-script/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/color-changer-script/</guid>
+      <guid>/color-changer-script/</guid>
       <description>Download Link: GitHub/Rig-No-Jutsu&#xA;Color Changer is an updated python version of a mel script(edmxColorChanger.mel) I&amp;rsquo;ve been using in my workflow. I also took this as a challenge to build a gui using cmds. I also added the ability to easily change the color on the shape of the control.</description>
     </item>
     <item>
       <title>Limit No Jutsu ( Script )</title>
-      <link>//localhost:1313/posts/limit-script/</link>
+      <link>/posts/limit-script/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/limit-script/</guid>
+      <guid>/posts/limit-script/</guid>
       <description>Download Link: GitHub/Rig-No-Jutsu&#xA;About I created this script during produciton to speed up the process of setting limits. It helps you avoid having to go to the attribute editor and enabling each channel and setting the value. Far to many steps for my liking. This is much faster. I also plan on adding export/import functionality in the future.&#xA;How To Use &amp;ndash; Set &amp;ndash; Set Limit Select a control object and positon or rotate in space( preferably one axis at a time).</description>
     </item>
   </channel>

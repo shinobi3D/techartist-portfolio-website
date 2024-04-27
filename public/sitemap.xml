@@ -2,56 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2024-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2024-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/rig_setup/</loc>
+    <loc>/tags/rig_setup/</loc>
     <lastmod>2024-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/spherical-eye-rig/</loc>
+    <loc>/spherical-eye-rig/</loc>
     <lastmod>2024-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2024-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/ebook/</loc>
+    <loc>/tags/ebook/</loc>
     <lastmod>2024-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/maya-api-handbook/</loc>
+    <loc>/maya-api-handbook/</loc>
     <lastmod>2024-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/copy-vert-weight-script/</loc>
+    <loc>/copy-vert-weight-script/</loc>
     <lastmod>2024-02-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/rig_tool/</loc>
+    <loc>/tags/rig_tool/</loc>
     <lastmod>2024-02-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/color-changer-script/</loc>
+    <loc>/color-changer-script/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/introduction/</loc>
+    <loc>/posts/introduction/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/helloworld/</loc>
+    <loc>/tags/helloworld/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>/about/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/legacy_reel/</loc>
+    <loc>/legacy_reel/</loc>
   </url><url>
-    <loc>//localhost:1313/posts/limit-script/</loc>
+    <loc>/posts/limit-script/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/</loc>
+    <loc>/projects/</loc>
   </url><url>
-    <loc>//localhost:1313/reel/</loc>
+    <loc>/reel/</loc>
   </url><url>
-    <loc>//localhost:1313/rig-no-jutsu/</loc>
+    <loc>/rig-no-jutsu/</loc>
   </url><url>
-    <loc>//localhost:1313/tools/</loc>
+    <loc>/tools/</loc>
   </url>
 </urlset>

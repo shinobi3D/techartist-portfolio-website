@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Anthony Lynch</title>
-    <link>//localhost:1313/projects/</link>
+    <link>/projects/</link>
     <description>Recent content in Projects on Anthony Lynch</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rig-No-Jutsu</title>
-      <link>//localhost:1313/rig-no-jutsu/</link>
+      <link>/rig-no-jutsu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/rig-no-jutsu/</guid>
+      <guid>/rig-no-jutsu/</guid>
       <description>Here is a collection of Maya tools I created during daily work. Its only a few for now, but I have a few in the works that will be release soon.&#xA;GitHub Repo:&#xA;Download Name Description Github Color Changer For changing the color on controls and shapes. More Info Github Copy Vert Weight Tool for selecting and copying weight to verts. More Info </description>
     </item>
   </channel>
