@@ -7,7 +7,7 @@ type: page
 ![Jane Banner](/images/jane-banner.jpg)
 **JANE** on **AppleTV** - [Trailer](https://www.youtube.com/watch?v=b9l67pSyI0U)
  
- I was really excited to find out that our team over at Sinkin Ship Ent. won the Emmy for best VFX on a children's show.  I worked on a number of rigs for this produciton, about 6 or 7 of the animals featured throughout the episodes. Including the Bees, Dragonfly, Shark, Polar Bear, and Flying Fox.  One of the great perks of working on this project was the anatomy lessons from the consultant whos name escapes me right now. Access to some of his anatomical and evolutionary knowledge helped push the final product.
+ I was really excited to find out that our team over at Sinkin Ship Ent. won the Emmy for best VFX on a children's show.  I worked on a number of rigs for this produciton, about 6 or 7 of the animals featured throughout the episodes. Including the Bees, Dragonfly, Shark, Polar Bear, and Flying Fox.  One of the great perks of working on this project was the anatomy lessons from Stuart Sumida, the film industries leading animal anatomy expert. 
 
  ---
 
