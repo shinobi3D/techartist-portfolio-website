@@ -1,5 +1,5 @@
 ---
-title: "Copy Weight To Verts Tool"
+title: "Copy Weight To Verts Tool ( Script )"
 date: 2024-02-08
 tags: ["rig_tool"]
 # image: "/images/copyVertWeight_script.jpg"

@@ -2,39 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Anthony Lynch</title>
-    <link>/posts/</link>
+    <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on Anthony Lynch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Limit No Jutsu</title>
-      <link>/posts/limit-script/</link>
-      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/limit-script/</guid>
-      <description>Download Link: GitHub/Rig-No-Jutsu&#xA;About I created this script during produciton to speed up the process of setting limits. It helps you avoid having to go to the attribute editor and enabling each channel and setting the value. Far to many steps for my liking. This is much faster. I also plan on adding export/import functionality in the future.&#xA;How To Use Set Set Limit Select a control object and positon or rotate in space( preferably one axis at a time).</description>
+      <title>Rigging Spherical Eye</title>
+      <link>//localhost:1313/spherical-eye-rig/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/spherical-eye-rig/</guid>
+      <description>Eye Deformation Using SkinWeights, sine/cos I came across this article and thought this was a cool concept to try out. I was able to get something going, but I&amp;rsquo;ll have to give it more resolution in my next run.</description>
     </item>
     <item>
-      <title>Copy Weight To Verts Tool</title>
-      <link>/copy-vert-weight-script/</link>
+      <title>Good Read: Maya API Handbook</title>
+      <link>//localhost:1313/maya-api-handbook/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/maya-api-handbook/</guid>
+      <description>A collegue of mine, Kyle Burris released an E-Book on Maya API. I cant wait to check it out!&#xA;Title: Maya API Handbook Author: Kyle Burris Link: https://kyleburris3d.wordpress.com/maya-api-handbook/</description>
+    </item>
+    <item>
+      <title>Copy Weight To Verts Tool ( Script )</title>
+      <link>//localhost:1313/copy-vert-weight-script/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>/copy-vert-weight-script/</guid>
+      <guid>//localhost:1313/copy-vert-weight-script/</guid>
       <description>Download Link: GitHub/Rig-No-Jutsu&#xA;Copy Vert Weights tool was created in a day to help with those pesky moments when you want to copy weights to certain verts. This tool help you manage the selections and copy weights quickly.</description>
     </item>
     <item>
-      <title>Color Changer Script</title>
-      <link>/color-changer-script/</link>
+      <title>Color Changer Script ( Script )</title>
+      <link>//localhost:1313/color-changer-script/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>/color-changer-script/</guid>
+      <guid>//localhost:1313/color-changer-script/</guid>
       <description>Download Link: GitHub/Rig-No-Jutsu&#xA;Color Changer is an updated python version of a mel script(edmxColorChanger.mel) I&amp;rsquo;ve been using in my workflow. I also took this as a challenge to build a gui using cmds. I also added the ability to easily change the color on the shape of the control.</description>
     </item>
     <item>
       <title>Hello World</title>
-      <link>/posts/introduction/</link>
+      <link>//localhost:1313/posts/introduction/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/introduction/</guid>
+      <guid>//localhost:1313/posts/introduction/</guid>
       <description>Welcome to my website. This is my first attempt at building a Hugo site. The experience has been quite empowering and I&amp;rsquo;ve learned a lot of tools along the way. Its great how far web building tools have come along, I&amp;rsquo;d encourge any tech artist to give it a try.&#xA;Now that the setup is done, let the content flow! Sit tight, relax and look around. Hopefully you can find something of value here.</description>
+    </item>
+    <item>
+      <title>Limit No Jutsu ( Script )</title>
+      <link>//localhost:1313/posts/limit-script/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/limit-script/</guid>
+      <description>Download Link: GitHub/Rig-No-Jutsu&#xA;About I created this script during produciton to speed up the process of setting limits. It helps you avoid having to go to the attribute editor and enabling each channel and setting the value. Far to many steps for my liking. This is much faster. I also plan on adding export/import functionality in the future.&#xA;How To Use &amp;ndash; Set &amp;ndash; Set Limit Select a control object and positon or rotate in space( preferably one axis at a time).</description>
     </item>
   </channel>
 </rss>

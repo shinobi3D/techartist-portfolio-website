@@ -3,7 +3,7 @@ title: Tools
 type: page
 ---
 
-Here is a collection of Maya tools I created during daily work. Its only a few for now, but I have a few in the works that will be release soon.
+A collection of Rigging Tools I came up with to help speed up my workflow. Its only a few for now, but I have a few in the works that will be release shortly.
 
 GitHub Repo:    
 

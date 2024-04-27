@@ -1,5 +1,5 @@
 ---
-title: "Color Changer Script"
+title: "Color Changer Script ( Script )"
 date: 2024-02-01
 tags: ["rig_tool"]
 type: "post"

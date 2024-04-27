@@ -2,67 +2,88 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anthony Lynch</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Anthony Lynch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Limit No Jutsu</title>
-      <link>/posts/limit-script/</link>
-      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/limit-script/</guid>
-      <description>Download Link: GitHub/Rig-No-Jutsu&#xA;About I created this script during produciton to speed up the process of setting limits. It helps you avoid having to go to the attribute editor and enabling each channel and setting the value. Far to many steps for my liking. This is much faster. I also plan on adding export/import functionality in the future.&#xA;How To Use Set Set Limit Select a control object and positon or rotate in space( preferably one axis at a time).</description>
+      <title>Rigging Spherical Eye</title>
+      <link>//localhost:1313/spherical-eye-rig/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/spherical-eye-rig/</guid>
+      <description>I came across this article and thought this was a cool concept to try out. I was able to get something going, but I&amp;rsquo;ll have to give it more resolution in my next run.</description>
     </item>
     <item>
-      <title>Copy Weight To Verts Tool</title>
-      <link>/copy-vert-weight-script/</link>
+      <title>Good Read: Maya API Handbook</title>
+      <link>//localhost:1313/maya-api-handbook/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/maya-api-handbook/</guid>
+      <description>A collegue of mine, Kyle Burris released an E-Book on Maya API. I cant wait to check it out!&#xA;Title: Maya API Handbook Author: Kyle Burris Link: https://kyleburris3d.wordpress.com/maya-api-handbook/</description>
+    </item>
+    <item>
+      <title>Copy Weight To Verts Tool ( Script )</title>
+      <link>//localhost:1313/copy-vert-weight-script/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>/copy-vert-weight-script/</guid>
+      <guid>//localhost:1313/copy-vert-weight-script/</guid>
       <description>Download Link: GitHub/Rig-No-Jutsu&#xA;Copy Vert Weights tool was created in a day to help with those pesky moments when you want to copy weights to certain verts. This tool help you manage the selections and copy weights quickly.</description>
     </item>
     <item>
-      <title>Color Changer Script</title>
-      <link>/color-changer-script/</link>
+      <title>Color Changer Script ( Script )</title>
+      <link>//localhost:1313/color-changer-script/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>/color-changer-script/</guid>
+      <guid>//localhost:1313/color-changer-script/</guid>
       <description>Download Link: GitHub/Rig-No-Jutsu&#xA;Color Changer is an updated python version of a mel script(edmxColorChanger.mel) I&amp;rsquo;ve been using in my workflow. I also took this as a challenge to build a gui using cmds. I also added the ability to easily change the color on the shape of the control.</description>
     </item>
     <item>
       <title>Hello World</title>
-      <link>/posts/introduction/</link>
+      <link>//localhost:1313/posts/introduction/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/introduction/</guid>
+      <guid>//localhost:1313/posts/introduction/</guid>
       <description>Welcome to my website. This is my first attempt at building a Hugo site. The experience has been quite empowering and I&amp;rsquo;ve learned a lot of tools along the way. Its great how far web building tools have come along, I&amp;rsquo;d encourge any tech artist to give it a try.&#xA;Now that the setup is done, let the content flow! Sit tight, relax and look around. Hopefully you can find something of value here.</description>
     </item>
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>//localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/about/</guid>
+      <guid>//localhost:1313/about/</guid>
       <description>I&amp;rsquo;ve been an Animation Industry Professional for over 10 years, and spent a majority of that time as a Rigging Artist working on projects from Animation to VFX. I specialize in creating rigging systems using python and various DCC software. I pride myself in providing animators with flexible and responsive rigs. And I really enjoy the gratifcaiton I get from solving technical problems.&#xA;Tools I&amp;rsquo;m Using Maya, UE5, Blender PyCharm/VSCode Vim Git Rocky Linux Contact Me Email: rigger@anthonylynch.</description>
     </item>
     <item>
-      <title>Reel</title>
-      <link>/reel/</link>
+      <title>Legacy Reel</title>
+      <link>//localhost:1313/legacy_reel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/reel/</guid>
-      <description> </description>
+      <guid>//localhost:1313/legacy_reel/</guid>
+      <description>Animation Rigging Reel Animation Rigging Reel Breakdown Elena of Avalor ( Disney )&#xA;Responsible for helping rig Jaquins( flying lions ) using Vetala. I rigged the body and some aspects of the face. I was also tasked with completing the wing setup after the artist who began this setup left during production. Rigged body and facial for some of the generic Noblin creatures. Tossed In Space ( Pilot )&#xA;Responsible for the face and body setup of the pilot and some of the Generals using Anzovin Rig Tools.</description>
+    </item>
+    <item>
+      <title>Limit No Jutsu ( Script )</title>
+      <link>//localhost:1313/posts/limit-script/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/limit-script/</guid>
+      <description>Download Link: GitHub/Rig-No-Jutsu&#xA;About I created this script during produciton to speed up the process of setting limits. It helps you avoid having to go to the attribute editor and enabling each channel and setting the value. Far to many steps for my liking. This is much faster. I also plan on adding export/import functionality in the future.&#xA;How To Use &amp;ndash; Set &amp;ndash; Set Limit Select a control object and positon or rotate in space( preferably one axis at a time).</description>
+    </item>
+    <item>
+      <title>Reel</title>
+      <link>//localhost:1313/reel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/reel/</guid>
+      <description>Creature Rigging Demo Creature Rigging Demo Breakdown See Projects page for more info.&#xA;Jane ( Apple TV )&#xA;Polar Bear Flying Fox Insects/ Bees/ Dragonfly Shark Elephant( partial ) GhostWriter ( Apple TV )&#xA;Cowardly Lion Technicolor Projects&#xA;Mecha ( Internal Project) Snake To view my previous animation rigging work, CLICK HERE</description>
     </item>
     <item>
       <title>Rig-No-Jutsu</title>
-      <link>/rig-no-jutsu/</link>
+      <link>//localhost:1313/rig-no-jutsu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/rig-no-jutsu/</guid>
+      <guid>//localhost:1313/rig-no-jutsu/</guid>
       <description>Here is a collection of Maya tools I created during daily work. Its only a few for now, but I have a few in the works that will be release soon.&#xA;GitHub Repo:&#xA;Download Name Description Github Color Changer For changing the color on controls and shapes. More Info Github Copy Vert Weight Tool for selecting and copying weight to verts. More Info </description>
     </item>
     <item>
       <title>Tools</title>
-      <link>/tools/</link>
+      <link>//localhost:1313/tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tools/</guid>
-      <description>Here is a collection of Maya tools I created during daily work. Its only a few for now, but I have a few in the works that will be release soon.&#xA;GitHub Repo:&#xA;Download Name Description Github Color Changer For changing the color on controls and shapes. More Info Github Copy Vert Weight Tool for selecting and copying weight to verts. More Info Github Limit no Jutsu Utility to help set limits on controls faster.</description>
+      <guid>//localhost:1313/tools/</guid>
+      <description>A collection of Rigging Tools I came up with to help speed up my workflow. Its only a few for now, but I have a few in the works that will be release shortly.&#xA;GitHub Repo:&#xA;Download Name Description Github Color Changer For changing the color on controls and shapes. More Info Github Copy Vert Weight Tool for selecting and copying weight to verts. More Info Github Limit no Jutsu Utility to help set limits on controls faster.</description>
     </item>
   </channel>
 </rss>
