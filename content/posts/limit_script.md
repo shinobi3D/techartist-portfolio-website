@@ -1,6 +1,6 @@
 ---
 title: "Limit No Jutsu ( Script )"
-date: 2024-26-03
+date: 2024-03-26
 tags: ["rig_tool"]
 type: "post"
 url: posts/limit-script/

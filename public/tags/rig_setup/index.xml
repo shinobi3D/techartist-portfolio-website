@@ -9,11 +9,11 @@
     <lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/rig_setup/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Rigging Spherical Eye</title>
+      <title>Rigging Spherical Eye Deformation</title>
       <link>/spherical-eye-rig/</link>
       <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
       <guid>/spherical-eye-rig/</guid>
-      <description>Eye Deformation Using SkinWeights, sine/cos I came across this article and thought this was a cool concept to try out. I was able to get something going, but I&amp;rsquo;ll have to give it more resolution in my next run.</description>
+      <description>Eye Deformation Using SkinWeights, sine and cos I came across this article and thought this was a cool concept to try out. I was able to get something going, but I&amp;rsquo;ll have to give it more resolution in my next run.&#xA;This setup took me about a day to figure out and hook up. I&amp;rsquo;ll post a more thorough update about the process soon.</description>
     </item>
   </channel>
 </rss>

@@ -7,9 +7,8 @@ url: /maya-api-handbook/
 showTableOfContents: True
 draft: False
 ---
+![Maya Python API Image](/images/mayaPythonAPI.png)
 
-A collegue of mine, Kyle Burris released an E-Book on Maya API. I cant wait to check it out! 
+A collegue of mine, **Kyle Burris** released an E-Book on Maya API. I cant wait to check it out!
 
-Title: Maya API Handbook
-Author: Kyle Burris
-Link: https://kyleburris3d.wordpress.com/maya-api-handbook/
+[Click here](https://kyleburris3d.wordpress.com/maya-api-handbook/) to check it out.
