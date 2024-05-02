@@ -29,5 +29,4 @@ See [Projects](/projects/) page for more info.
 
 ---
 
-
-To view my previous animation rigging work, [CLICK HERE](/legacy_reel/)
+### To view my previous animation rigging work, [CLICK HERE](/legacy_reel/)
