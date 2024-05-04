@@ -23,7 +23,7 @@ See [Projects](/projects/) page for more info.
 - Cowardly Lion 
 
 **Technicolor Projects**
-- Mecha ( Internal Project)
+- Mecha ( Internal Project )
 - Snake
 
 
